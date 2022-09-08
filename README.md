@@ -1,2 +1,2 @@
 # algo-trading
-theme: minima
+theme: Dinky
